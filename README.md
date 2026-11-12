@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vignesh Kumar
+# Hi there 👋, I'm D.Vignesh Kumar
 
 ### Junior Frontend Developer | React & TypeScript Enthusiast
 
